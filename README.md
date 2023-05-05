@@ -1,3 +1,5 @@
+Steps to run the application
+
 Download or clone the repository to your local machine
 
 open the directory in vscode or using command prompt
